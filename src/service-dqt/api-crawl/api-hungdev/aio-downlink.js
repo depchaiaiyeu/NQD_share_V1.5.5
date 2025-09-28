@@ -20,7 +20,7 @@ import { getBotId } from "../../../index.js";
 
 const { execSync, exec } = await import("child_process");
 
-export const API_KEY_HOANGDEV = ""; // key lấy ở https://hoangdev.io.vn
+export const API_KEY_HOANGDEV = "JFvAY0sTAMWUaV73Vx7cOOqdORQ6G7BF"; // key lấy ở https://hoangdev.io.vn
 export const API_URL_DOWNAIO_HOANGDEV = "https://hoangdev.io.vn/Aio/aio-download";
 
 const MEDIA_TYPES = {

@@ -2,6 +2,7 @@ import path from "path";
 
 import canvas from "canvas";
 import chalk from "chalk";
+import * as nsfwjs from "nsfwjs";
 import schedule from "node-schedule";
 import { MessageMention, MessageType } from "zlbotdqt";
 

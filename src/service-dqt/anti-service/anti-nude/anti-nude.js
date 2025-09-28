@@ -2,7 +2,7 @@ import path from "path";
 
 import canvas from "canvas";
 import chalk from "chalk";
-import * as chalk from "chalk";
+import chalk from "chalk";
 import schedule from "node-schedule";
 import { MessageMention, MessageType } from "zlbotdqt";
 
